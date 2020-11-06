@@ -2,7 +2,9 @@
 //  Modifier.swift
 //  ImageScroller
 //
-//  Created by Rahul on 20/10/20.
+//  Created by Rahul on 06/11/20.
+//
+
 //
 
 import SwiftUI
